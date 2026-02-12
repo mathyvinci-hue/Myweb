@@ -1,4 +1,8 @@
 body {
+
+    background-color: red !important;
+
+
     background: #fdf2f4;
     font-family: 'Dancing Script', cursive, serif; /* Una fuente tipo manuscrita queda genial */
     display: flex;
